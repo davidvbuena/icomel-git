@@ -407,6 +407,11 @@ section h2::after {
   right: 0;
 }
 
+
+.endereco {
+  text-align: center;
+  }
+
 /* Contact Section */
 
 input[type="text"],
